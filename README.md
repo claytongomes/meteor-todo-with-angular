@@ -7,7 +7,7 @@ Você precisará ter uma conta nos seguintes lugares
 --------------------------------------------------
 * ambiente de desenvolvimento remoto - https://c9.io (cloud9)
 * ambiente de produção - https://www.heroku.com
-* repósitorio - https://github.com
+* repositório - https://github.com
 
 Criando nova app meteor no cloud9
 ---------------------------------
